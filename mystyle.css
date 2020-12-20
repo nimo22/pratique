@@ -1,0 +1,21 @@
+.reed{
+    border:1px solid red;
+}
+.green{
+    border:10px solid green;
+
+}
+.tews{
+    margin-left: 4px;
+    border: 2px;
+    padding: 20px;
+}
+.mid{
+    text-align: center;
+    color: white;
+    background-color: blue;
+    margin:2px 100px ;
+    padding: 10px 20px;
+    border: 10px;
+
+}

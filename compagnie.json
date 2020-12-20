@@ -1,0 +1,22 @@
+{
+  "compagnieA": {
+    "employe": 100,
+    "size":"big",
+    "salir-moyen": 42000
+
+  },
+  "compagnieB": {
+    "employe": 10,
+    "size":"meduim",
+    "salir-moyen": 35000
+  },
+  "compagnieC": "me",
+
+  "array":
+  [
+    1,
+    2,
+    3,
+    4
+  ]
+}
